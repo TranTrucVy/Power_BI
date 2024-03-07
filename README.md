@@ -1,4 +1,3 @@
-# Power_BI
 ## Project 
 ### GRDP IN VN 2023
 ![example](GRDB_IN_VN_2023.png)
